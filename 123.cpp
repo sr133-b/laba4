@@ -114,6 +114,6 @@ int main() {
     for (int i = 0; i < errors.size(); i++) delete errors[i];
     for (int i = 0; i < testObjects.size(); i++) delete testObjects[i];
     for (int i = 0; i < anotherObjects.size(); i++) delete anotherObjects[i];
-
+    //lol
     return 0;
 }
